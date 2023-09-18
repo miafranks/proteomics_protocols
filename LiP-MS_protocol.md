@@ -48,7 +48,8 @@
 * If using trypsin controls, add 5uL of water to those instead of the PK solution.
 * Transfer tubes to 99C, incubate 5min exactly
 * Transfer tubes to 4C PCR block, incubate 5mins
-* Add same volume (usualy 55uL) of 10% DOC to quench the reaction. 
+* Add same volume (usualy 55uL) of 10% DOC to quench the reaction.
+    * DOC may precipitate especially if the tubes are cold. To prevent this, can bring tube to RT for 1 minute before adding the DOC
 
 ### Trypsin digest
 *  Reduce disulfide bonds with 200mM DTT (final 5mm) 1:40 = 112uL + 2.82uL 200mM stock.                     
@@ -58,7 +59,8 @@
 * Dilute samples with 100mM ABC to a DOC concentration of 1% (add 430uL). DOC may still be precipitated.
 * Add 10uL of a 0.1ug/uL trypsin/lysC mix stock prepared on ice. This is equivalent to about 1ug added per 50ug protein reaction which is reasonable. Incubate overnight at 37C, can check pH with pH strip should be about 8.
 * Quench digestion by adding 50% FA to final concentration of 2% (add 25uL of the 50% FA). DOC will pop and precipitate; keep tubes open to avoid popping. After some time, vortex and make sure formic acid and DOC have fully mixed. 
-* Remove DOC by transfering samples to a filter plate and centrifuging; eluent contains proteins and DOC will stay on the filter. 
+* Remove DOC by transfering samples to a filter plate and centrifuging; eluent contains proteins and DOC will stay on the filter.
+
 
 ### C18 cleanup
 * wash C18 columns with 200uL LC grade methanol 2x - centrifuge
