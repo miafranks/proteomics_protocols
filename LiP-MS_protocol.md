@@ -14,8 +14,8 @@
 * 1M IODA 
 * 0.1ug/uL trypsin/lysC mix
 * 50% formic acid LC grade
-* 0.2um filter plates
-* C18 plates
+* 0.2um filter plates [Pall Acroprep Adv 0.2uM ref 8582]
+* C18 plates [NEST 96 Well BioPure SPF EasyFlo part #HNFR S18V-L)
 * LC grade methanol
 * Desalting Buffer B (50% acetonitrile-0.1% formic acid)
 * Desalting Buffer A (1% acetonitrile-0.1% formic acid)
