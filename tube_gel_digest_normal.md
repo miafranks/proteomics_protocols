@@ -6,37 +6,36 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 * 1M Tris HCL, pH 7.5<br>
 * 40% Bis-acrylmide L 29:1<br>
 * Ambic 25 (25mM ammonium bicarbonate)<br>
-* 1% Ammonium persulfate (10mg/1mL H2O)<br>
-* Ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
+* Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
 * TE buffer (10mM tris HCL, 1mM EDTA in water)<br>
 * At least 25ug sample protein (can be less, but more difficult)<br>
-* gel fix solution (50% Ethanol, 10 acetic acid in LC water)<br>
-* gel destain solution (50% methanol, 10% acetic acid in LC water)<br>
-* 50/50 wash (50% ACN:50% 25mM ammonium bicarbonate)<br>
-* LCMS grade acetonitrile<br>
-* 10mM dithiothreitol (DTT) in ambic25 (make fresh solution) (1.55mg/mL)<br>
-* Ammonium bicarbonate solution 25mM, referred to as Ambic25. We usually make this by diluting an Ambic 100mM solution as needed. <br>
-* 55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL) - protect from heat and light<br>
-* TEMED (full concentration)<br>
-* 1% ammonium persulfate (10mg/mL) - made fresh<br>
-* Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) 
+* gel fix solution (50% Ethanol, 10 acetic acid in LC water) - shared shelf stable<br>
+* gel destain solution (50% methanol, 10% acetic acid in LC water) - shared shelf stable<br>
+* 50/50 wash (50% ACN:50% 25mM ammonium bicarbonate) - shared shelf stable<br>
+* LCMS grade acetonitrile - we have a small bottle of decanted shared shelf stable<br>
+* 10mM dithiothreitol (DTT) in ambic25 (make fresh solution) (1.55mg/mL) - DTT powder is in the freezer <br>
+* Ammonium bicarbonate solution 25mM, referred to as Ambic25. We usually make this by diluting an Ambic 100mM solution as needed. shared 4C stable <br>
+* 55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL) - protect from heat and light - IODA powder is in the freezer <br>
+* TEMED (full concentration) - in corrosive cabinet <br>
+* 1% ammonium persulfate (10mg/mL) - made fresh, usually we make 1mL even though it is often too much. <br>
+* Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) - shared shelf stable
 
 
 ### Preparation
-* Day 1: Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples)
-* Day 2: Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL in ambic25 and IODA is 9.3mg/mL in ambic25.
-* Decide amount of protein to digest (An ideal goal is 25-50ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). 
-* Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug).
+* Day 1: Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. 
+* Day 2: Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
+* Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
+* Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
 
-| Sample | Sample  conc | Vol to Digest | Premix | TEMED | APS | TE | Final Vol |
+| Sample | Sample  conc | Vol to Digest | Premix | TE (if needed) | APS | TEMED | Final Vol |
 |--------|--------------|---------------|--------|-------|-----|----|-----------|
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
-|         |              |               | 103    | 3     | 7   |    | 200       |
+|         |              |               | 103    |      | 7   | 3   | 200       |
+|         |              |               | 103    |      | 7   |  3  | 200       |
+|         |              |               | 103    |     | 7   |  3  | 200       |
+|         |              |               | 103    |      | 7   |  3  | 200       |
+|         |              |               | 103    |      | 7   |  3  | 200       |
+|         |              |               | 103    |      | 7   |  3  | 200       |
+|         |              |               | 103    |      | 7   |  3  | 200       |
 ### Protocol
 * Place sample in clean 0.5mL tube, then add TE buffer in volume recorded above (calculate such that final volume is 200uL)
 * Add 103uL Premix to each sample
