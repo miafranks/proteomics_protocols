@@ -20,7 +20,7 @@
 
 ### Preparation
 * Prepare extraction buffer if needed
-  * Insert instructions                                    
+  * Insert instructions
 
 ### Protocol Day 1
 1. Bring the samples up to ACB lab on ice
