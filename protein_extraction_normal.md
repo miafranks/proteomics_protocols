@@ -1,6 +1,6 @@
 # Protein extraction protocol for proteomics
 ### For protein samples on polycarbonate filters
-### Developed in the Saito lab by Dawn Moran, modified here by Noelle Held (Mia Version)
+### Developed in the Saito lab by Dawn Moran, modified here by Noelle Held (Mia's Version)
 
 ### Materials
 * Protein Lo bind or ethanol clean 2mL microfuge tubes, 4 per sample
