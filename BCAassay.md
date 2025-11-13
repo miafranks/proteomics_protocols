@@ -34,12 +34,15 @@
 8. Add 95 µL of the kit solution to each well
   1. Place solution into reservoir to use a multi-channel pipette 
   2. Mix gently with pipette and replace, careful of bubbles 
-9. Place sticky cover on plate and shake by hand gently, then incubate at 37°C for 30 min – 1 hour (no longer)
+9. Place sticky cover on plate and shake by hand gently, then incubate at 37°C for 30 min (no longer than 1hr)
 10. Measure by Byony
 11. Analysis
     1. Create a standard curve with results from Column #2
     2. Subtract background value from H2
     3. Use standard curve to assign µg/µL values to samples
     4. Multiply by 1000 and average duplicates to find protein concentration
+
+### Waste 
+
 
 ![Plate Template](platetemplateannotated.png)
