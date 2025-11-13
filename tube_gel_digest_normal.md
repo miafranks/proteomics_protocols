@@ -7,31 +7,61 @@
 * Shaker <br>
 * Centrifuge <br>
 * Nanodrop <br>
+* Pipette Tips 
+    * 1000 - 
+    * 200 - 
+    * 20 - 
 
 ### Chemicals
-Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
-* 1M Tris HCL, pH 7.5<br> 
-* 40% Bis-acrylmide L 29:1<br>
-* Ambic 25 (25mM ammonium bicarbonate)<br>
-* TE buffer (10mM tris HCL, 1mM EDTA in water)<br>
-* gel fix solution (50% Ethanol, 10 acetic acid in LC water) - shared shelf stable<br>
-* gel destain solution (50% methanol, 10% acetic acid in LC water) - shared shelf stable<br>
-* 50/50 wash (50% ACN:50% 25mM ammonium bicarbonate) - shared shelf stable<br>
-* LCMS grade acetonitrile - we have a small bottle of decanted shared shelf stable<br>
-* 10mM dithiothreitol (DTT) in ambic25 (make fresh solution) (1.55mg/mL) - DTT powder is in the freezer <br>
-* Ammonium bicarbonate solution 25mM, referred to as Ambic25. We usually make this by diluting an Ambic 100mM solution as needed. shared 4C stable <br>
-* 55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL) - protect from heat and light - IODA powder is in the freezer <br>
+Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use only LCMS grade solvents<br>
+## Stocks 
+* LCMS grade acetonitrile - chemical hood, shared shelf stable<br>
+* LCMS grade methanol - bottom shelf of chemical hood
 * TEMED (full concentration) - in corrosive cabinet <br>
-* 1% ammonium persulfate (10mg/mL) - made fresh, usually we make 1mL even though it is often too much. <br>
+* Ammonium persulfate - LOCAITON <br>
+* 1M Tris HCL, pH 7.5 - LOCATION <br> 
+* 40% Bis-acrylmide L 29:1 - LOCATION<br>
+* TE buffer (10mM tris HCL, 1mM EDTA in water) - LOCATION<br>
+* 10mM dithiothreitol (DTT) - stored in freezer <br>
+* Iodacetamide (IODA) - stored in freezer <br>
+
+## Solutions 
+* Premix - stored ---- <br>
+* Ambic 25 (25mM ammonium bicarbonate) - shared 4C stable <br>
+* Gel fix solution - shared shelf stable<br>
+* Gel destain solution  - shared shelf stable<br>
+* 50/50 wash - shared shelf stable<br>
+* 1% ammonium persulfate solution<br>
 * Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) - shared shelf stable 
+* DTT in Ambic 25 solution - make fresh<br>
+* IODA in Ambic 25 - protect from heat and light<br>
 
 ### Preparation
 ## Day 1
-1. Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. <br>
-2. Prepare Ambic 25: 
+1. Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L. 
+   1. Total premix: 110ul * Sample # / 1000 = __________ mL premix (round up to nearest ml)<br>
+   3. Tric HCl: Total premix ml * 252 = _________________ uL Tris HCl<br>
+   3. Bis-acryl L: Total premix ml * 736.5 = __________________ uL Bis-acryl L. <br>
+2. Prepare Ambic 25: We usually make this by diluting an Ambic 100mM solution as needed. 
+3. Prepare Gel Fix solution: (50% Ethanol, 10 acetic acid in LC water)
+4. Prepare Gel Destain solution: (50% methanol, 10% acetic acid in LC water)
+5. Prepare 50/50 wash: (50% ACN:50% 25mM ammonium bicarbonate)
+6. Prepare 1% Ammonium persulfate: (10mg/mL) made fresh, usually we make 1mL even though it is often too much.
+
 
 ## Day 2
-2. Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
+2. Prepare fresh DTT and IODA solutions. You will need about 600ul of each per sample. 10mM dithiothreitol (DTT) in ambic25 (make fresh solution) (1.55mg/mL)
+   1. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and 
+IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
+Prepare peptide extraction buffer: 
+55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL
+
+
+
+
+
+
+
 3. Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
 4. Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
 
