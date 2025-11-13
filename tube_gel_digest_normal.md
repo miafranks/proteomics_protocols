@@ -3,6 +3,7 @@
 
 ### Materials
 * Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
+    * 
 * At least 25ug sample protein (can be less, but more difficult)<br>
 * Shaker <br>
 * Centrifuge <br>
@@ -91,18 +92,16 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
     2. For 200ml total: 100ml ACN + 90ml LCMS water + 10ml Formic Acid
 
 
-
-
-
-
-
-
-
 ### Protocol
 ## Day 1
-* Place sample in clean 0.5mL tube, then add TE buffer in volume recorded above (calculate such that final volume is 200uL)
-* Add 103uL Premix to each sample
-* Add 3uL TEMED, and then 7uL APS and vortex. Work quickly. I usually add TEMED to all samples, then vortex, then add APS one by one vortexing each as I go. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
+13.  Label a set of 0.5ml tubes. 
+14.  Following the table above: 
+    1. Add 103uL Premix to each tube
+    2. Add sample and TE buffer to total 87ul 
+    3. Add 3ul TEMED 
+    4. Vortex
+15. To finish the gel, quickly add 7ul APS to one tube and vortex. Repeat for all samples. 
+    1. Work quickly. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
 * Allow to polymerize in thermomixer 1hr at 20C with no shaking START:
 * Add 200uL gel fix solution to gels, incubate RT 20min
 * Remove liquid, transfer gels to 2mL tubes (use a 200mL pipette tip to unstick the gels from the tubes)
