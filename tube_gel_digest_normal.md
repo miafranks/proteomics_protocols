@@ -22,20 +22,23 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 
 
 ### Preparation
-* Day 1: Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. 
+## Day 1
+1. Day 1: Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. <br>
+
+## Day 2
 * Day 2: Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
 * Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
 * Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
 
-| Sample | Sample  conc | Vol to Digest | Premix | TE (if needed) | APS | TEMED | Final Vol |
-|--------|--------------|---------------|--------|-------|-----|----|-----------|
-|         |              |               | 103    |      | 7   | 3   | 200       |
-|         |              |               | 103    |      | 7   |  3  | 200       |
-|         |              |               | 103    |     | 7   |  3  | 200       |
-|         |              |               | 103    |      | 7   |  3  | 200       |
-|         |              |               | 103    |      | 7   |  3  | 200       |
-|         |              |               | 103    |      | 7   |  3  | 200       |
-|         |              |               | 103    |      | 7   |  3  | 200       |
+| Sample  | Sample  conc | Vol to Digest | Premix | TE   | APS | TEMED | Final Vol |
+|-------- |--------------|---------------|--------|------|-----|-------|-----------|
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       |
 ### Protocol
 * Place sample in clean 0.5mL tube, then add TE buffer in volume recorded above (calculate such that final volume is 200uL)
 * Add 103uL Premix to each sample
