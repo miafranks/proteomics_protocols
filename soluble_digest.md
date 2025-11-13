@@ -1,4 +1,4 @@
-# Soluble gel digestion
+# Soluble gel digestion test
 ### Developed in the Saito Lab and adapted by Noelle Held. 
 
 ### Materials
