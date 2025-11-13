@@ -1,5 +1,5 @@
 # BCA Protein assay
-### Adapted by the Saito lab and written here by Noelle Held; see also associated user's manual (Mia Version) 
+### Adapted by the Saito lab and written here by Noelle Held; see also associated user's manual (Mia's Version) 
 
 ### Materials
 * 5uL of each sample to be tested
