@@ -11,6 +11,8 @@
     * 1000 - 
     * 200 - 
     * 20 - 
+* Serological pippette - 25ml, 100ml tips 
+* New bottles for solutions need to be rinsed with LCMS grade H2O
 
 ### Chemicals
 Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use only LCMS grade solvents<br>
@@ -20,10 +22,11 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 * TEMED (full concentration) - in corrosive cabinet <br>
 * Ammonium persulfate - LOCAITON <br>
 * 1M Tris HCL, pH 7.5 - LOCATION <br> 
-* 40% Bis-acrylmide L 29:1 - LOCATION<br>
+* 40% Bis-acrylmide L 29:1 (labeled acrylamide)- LOCATION<br>
 * TE buffer (10mM tris HCL, 1mM EDTA in water) - LOCATION<br>
 * 10mM dithiothreitol (DTT) - stored in freezer <br>
 * Iodacetamide (IODA) - stored in freezer <br>
+* Formic Acid - LOCATION<br>
 
 ## Solutions 
 * Premix - stored ---- <br>
@@ -31,39 +34,38 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 * Gel fix solution - shared shelf stable<br>
 * Gel destain solution  - shared shelf stable<br>
 * 50/50 wash - shared shelf stable<br>
-* 1% ammonium persulfate solution<br>
-* Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) - shared shelf stable 
+* 1% ammonium persulfate solution (APS)<br>
 * DTT in Ambic 25 solution - make fresh<br>
 * IODA in Ambic 25 - protect from heat and light<br>
+* Peptide extraction buffer - shared shelf stable 
+
 
 ### Preparation
 ## Day 1
 1. Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L. 
-   1. Total premix: 110ul * Sample # / 1000 = __________ mL premix (round up to nearest ml)<br>
-   3. Tric HCl: Total premix ml * 252 = _________________ uL Tris HCl<br>
-   3. Bis-acryl L: Total premix ml * 736.5 = __________________ uL Bis-acryl L. <br>
-2. Prepare Ambic 25: We usually make this by diluting an Ambic 100mM solution as needed. 
-3. Prepare Gel Fix solution: (50% Ethanol, 10 acetic acid in LC water)
-4. Prepare Gel Destain solution: (50% methanol, 10% acetic acid in LC water)
-5. Prepare 50/50 wash: (50% ACN:50% 25mM ammonium bicarbonate)
-6. Prepare 1% Ammonium persulfate: (10mg/mL) made fresh, usually we make 1mL even though it is often too much.
-
-
-## Day 2
-2. Prepare fresh DTT and IODA solutions. You will need about 600ul of each per sample. 10mM dithiothreitol (DTT) in ambic25 (make fresh solution) (1.55mg/mL)
-   1. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and 
-IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
-Prepare peptide extraction buffer: 
-55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL
-
-
-
-
-
-
-
-3. Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
-4. Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
+   1. Total premix: 110ul * Sample # / 1000 = __________ mL premix (round up to nearest ml)
+   2. Tric HCl: Total premix ml * 252 = _________________ uL Tris HCl
+   3. Bis-acryl L: Total premix ml * 736.5 = __________________ uL Bis-acryl L. 
+2. Prepare Ambic 25: We usually make this by diluting an Ambic 100mM solution as needed.
+   1. From 100mM Ambic: Combine 1:4, 100mM ambic: MQ water
+3. Prepare Gel Fix solution: 
+   1. 50% Ethanol, 10% acetic acid in LC water
+4. Prepare Gel Destain solution: 
+   1. 50% methanol, 10% acetic acid in LC water
+5. Prepare 50/50 wash: 
+   1. 50% ACN, 50% Ambic25
+6. Prepare 1% Ammonium persulfate (APS): 
+   1. In a 1.5mL tube, mix 10mg Ammonium persulfate in 1mL H20. 
+7. FOLLOWING BSA ASSAY: Decide amount of protein to digest 
+   1. Ideal goal is 25-50ug and up to 100ug digestions
+8. Calculate amount of sample for each digestion (Vol to digest). 
+   1. In excel: 25ug / Sample ug/ul(from BSA Assay) = _______ul of sample 
+9. Fill out the following table: 
+    1. Gels total 200ul
+    2. If the calulcated sample amount is... 
+        1. 0-87ul: Put value in 'Vol to Digest' column. Fill in TE buffer with vol to total 87. (Ex 40ul sample + 47ul TE)
+        2. 87-150ul: Put 87 in 'Vol to digest' column and 0 in TE buffer
+        3. 150+ul: Make double gels: 400ul total: 206 premix, 0 TE, ENTIRE SAMPLE, 14ul APS, 6ul TEMED. 
 
 | Sample  | Sample  conc | Vol to Digest | Premix | TE   | APS | TEMED | Final Vol |
 |-------- |--------------|---------------|--------|------|-----|-------|-----------|
@@ -74,6 +76,26 @@ Prepare peptide extraction buffer:
 |         |              |               | 103    |      | 7   |   3   | 200       |
 |         |              |               | 103    |      | 7   |   3   | 200       |
 |         |              |               | 103    |      | 7   |   3   | 200       | <br>
+
+## Day 2
+10. Prepare fresh DTT solution: 
+    1. Total DTT solution/ mL Ambic25: 600 * Sample # / 1000 = _______________ mL (add a few mL for buffer)
+    2. Mass DTT: Total solution needed * 1.55mg/ml = _______________ mg 
+11. 30 MIN THROUGH DTT INCUBATION: Prepare fresh IODA solution: 
+    1. Total IODA solution/ mL Ambic25: 600 * Sample # / 1000 = _______________ mL (add a few mL for buffer)
+    2. Mass IODA: Total solution * 9.3mg/ml = ____________ mg
+
+## Day 3
+12. Prepare peptide extraction buffer: 
+    1. 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade)
+    2. For 200ml total: 100ml ACN + 90ml LCMS water + 10ml Formic Acid
+
+
+
+
+
+
+
 
 
 ### Protocol
