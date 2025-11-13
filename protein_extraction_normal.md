@@ -29,7 +29,7 @@
 3. Add minimal amount (often 1 mL) SDS extraction buffer to cover and incubate at RT 15mins
 4. Shake 400RPM at 95C for 10 minutes
 5. Shake RT 350RPM 1hr
-6. Decant extract into a new 2mL tube and centrifuge high speed for 15mins at room temperature
+6. Decant extract (pipette) into a new 2mL tube and centrifuge high speed for 15mins at room temperature
   1. Retain filters in freezer until samples are run
 7. Remove supernatants, carefully leaving the pellet (debris) in the original tube
   1. Retain the pellet until samples are run just in case extraction was not successful
@@ -48,8 +48,8 @@
 ### Protocol Day 2
 12. At end of precipitation period, centrifuge the precipitated protein mixture to collect the proteins, usually 10-15mins at 4C high speed
 13. In chemical hood, quickly remove supernatant to another clean tube
-    1. Place supernatant in freezer until samples are run (proteins may continue to precipitate)
-14. Dry protein pellet by speedvac about 10mins
+   1. Retain supernatant in freezer until samples are run (proteins may continue to precipitate)
+14. Dry protein pellet by speedvac 10mins
   1. If speedvac is unavailable, leave in chemical hood for 10-15mins 
 15. Resuspend pellets in minimal SDS buffer at room temperature (shaking may be needed) - about 1hr to totally dissolve
   1. Start with 75ul and add 50ul as needed to resuspend
@@ -60,6 +60,7 @@
 ### Disposal 
 * After samples are run dispose of 
   * Filters
+  * Pellets
   * Precipitating proteins in supernatant
 * Pipette Tips
   * Non hazardous chemicals - Trash
