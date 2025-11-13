@@ -25,16 +25,22 @@
     1. Mix by pipetting, switch tip
     2. Repeat down the column until you are finished with all but the last well (H1) (see figure below)
 5. Prepare kit solution by mixing 50 parts A to 1 part B. You will need ~100 µL per sample to be tested
-  1. A: 100ul * [(41*2)+8] = A ul 
-  2. B: A/50 = B ul 
-  3. Protect solution from light 
+    1. A: 100ul * [(41*2)+8] = A ul 
+    2. B: A/50 = B ul 
+    3. Protect solution from light 
 6. Pipette 5 µL of your standards into neighboring wells, column 2
     1. Pipette only down to the first click to avoid bubbles
 7. Pipette 5 µL of your samples to be tested into their wells following your template 
 8. Add 95 µL of the kit solution to each well
+<<<<<<< HEAD
   1. Place solution into reservoir to use a multi-channel pipette 
   2. Mix gently with pipette and replace, careful of bubbles 
 9. Place sticky cover on plate and shake by hand gently, then incubate at 37°C for 30 min (no longer than 1hr)
+=======
+    1. Place solution into reservoir to use a multi-channel pipette 
+    2. Mix gently with pipette and replace, careful of bubbles 
+9. Place sticky cover on plate and shake by hand gently, then incubate at 37°C for 30 min – 1 hour (no longer)
+>>>>>>> 0a9a822cef5a59f4b63c2ddd65390e9e8d101494
 10. Measure by Byony
 11. Analysis
     1. Create a standard curve with results from Column #2
