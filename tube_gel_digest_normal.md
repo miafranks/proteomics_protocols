@@ -4,6 +4,9 @@
 ### Materials
 * Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
 * At least 25ug sample protein (can be less, but more difficult)<br>
+* Shaker <br>
+* Centrifuge <br>
+* Nanodrop <br>
 
 ### Chemicals
 Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
