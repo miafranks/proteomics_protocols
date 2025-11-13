@@ -2,13 +2,15 @@
 ### Developed in the Saito Lab by Vladimir Bulygin and Dawn Moran; adapted here by Noelle Held. See also Lu and Zhu Mol Cel Proteomics 2005
 
 ### Materials
+* Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
+* At least 25ug sample protein (can be less, but more difficult)<br>
+
+### Chemicals
 Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
-* 1M Tris HCL, pH 7.5<br>
+* 1M Tris HCL, pH 7.5<br> 
 * 40% Bis-acrylmide L 29:1<br>
 * Ambic 25 (25mM ammonium bicarbonate)<br>
-* Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
 * TE buffer (10mM tris HCL, 1mM EDTA in water)<br>
-* At least 25ug sample protein (can be less, but more difficult)<br>
 * gel fix solution (50% Ethanol, 10 acetic acid in LC water) - shared shelf stable<br>
 * gel destain solution (50% methanol, 10% acetic acid in LC water) - shared shelf stable<br>
 * 50/50 wash (50% ACN:50% 25mM ammonium bicarbonate) - shared shelf stable<br>
@@ -18,17 +20,17 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 * 55mM iodacetamide (IODA) in ambic 25 (9.3mg/mL) - protect from heat and light - IODA powder is in the freezer <br>
 * TEMED (full concentration) - in corrosive cabinet <br>
 * 1% ammonium persulfate (10mg/mL) - made fresh, usually we make 1mL even though it is often too much. <br>
-* Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) - shared shelf stable
-
+* Peptide extraction buffer: 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade) - shared shelf stable 
 
 ### Preparation
 ## Day 1
-1. Day 1: Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. <br>
+1. Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L (typically 252uL Tris HCL, 736.5uL Bis-acryl L which makes enough for 9 samples). To calculate excess premix for your samples: 110ul * number of samples / 1000 = _______________ mL of premix that you need. Round up to nearest mL: ___________________ mL. Multiply nearest mL by 252 = _________________ uL Tris HCl, multiply by 736.5 = __________________ uL Bis-acryl L. <br>
+2. Prepare Ambic 25: 
 
 ## Day 2
-* Day 2: Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
-* Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
-* Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
+2. Prepare fresh DTT and IODA solutions (or use previously frozen but be suspicious of solutions that underwent more than 1 freeze/thaw cycle). You will need about 600ul of each per sample. DTT is 1.55mg/mL. mL DTT needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 1.55mg = _______________ mg in ambic25 and IODA needed = 600 x number of samples/ 1000 = __________________ mL (add a few mL for safety) x 9.3 mg = _______________ mg in ambic25.
+3. Decide amount of protein to digest (An ideal goal is 25-50ug and up to 100ug digestions; we have digested as little as 10ug very reliably, and 1ug successfully). Note trade off between digesting a lot (need lots of expensive trypsin). 
+4. Fill out the following table adjusting the final volume of TE buffer to equal a 200uL final gel volume given the volume of sample solution you need to add to equal the desired amount of protein digested (ug). 
 
 | Sample  | Sample  conc | Vol to Digest | Premix | TE   | APS | TEMED | Final Vol |
 |-------- |--------------|---------------|--------|------|-----|-------|-----------|
@@ -38,11 +40,13 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 |         |              |               | 103    |      | 7   |   3   | 200       |
 |         |              |               | 103    |      | 7   |   3   | 200       |
 |         |              |               | 103    |      | 7   |   3   | 200       |
-|         |              |               | 103    |      | 7   |   3   | 200       |
+|         |              |               | 103    |      | 7   |   3   | 200       | <br>
+
+
 ### Protocol
 * Place sample in clean 0.5mL tube, then add TE buffer in volume recorded above (calculate such that final volume is 200uL)
 * Add 103uL Premix to each sample
-* Add 3uL TEMED, and then 7uL APS and vortex. Work quickly. I usually add TEMED to all samples, then vortex, then add APS one by one vortexing each as I go. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).  
+* Add 3uL TEMED, and then 7uL APS and vortex. Work quickly. I usually add TEMED to all samples, then vortex, then add APS one by one vortexing each as I go. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
 * Allow to polymerize in thermomixer 1hr at 20C with no shaking START:
 * Add 200uL gel fix solution to gels, incubate RT 20min
 * Remove liquid, transfer gels to 2mL tubes (use a 200mL pipette tip to unstick the gels from the tubes)
