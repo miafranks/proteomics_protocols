@@ -47,6 +47,7 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 
 
 ### Protocol
+## Day 1
 * Place sample in clean 0.5mL tube, then add TE buffer in volume recorded above (calculate such that final volume is 200uL)
 * Add 103uL Premix to each sample
 * Add 3uL TEMED, and then 7uL APS and vortex. Work quickly. I usually add TEMED to all samples, then vortex, then add APS one by one vortexing each as I go. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
@@ -59,6 +60,8 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 * Add 1mL 50:50 wash, shake 350RPM for 1hr. 
 <u> Note: This is a good place to break, gels can remain in incubator over night in the 50/50 wash if needed </u>
 <u> Note: This may be an opportunity to transfer gels to a well-plate format (e.g. 96 deep well plates) allowing use of a multichannel pipette for the remaining steps. </u>
+
+## Day 2
 * Remove first 50:50 wash solution, repeat wash step for 1 hour
 * Dehydrate gels by adding 0.8mL acetonitrile, vortex, incubate RT 5-10min and remove supernatant. Repeat 2x until gels pieces are hard, crunchy, and white. 
 * Add 600uL DTT solution, mix 1hr 56C 350RPM
@@ -83,14 +86,18 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 * Add trypsin to reach the desired ug of trypsin (1 ug trypsin enzyme per 20ug of experimental protein). Then add ambic25 to cover the gels. Spot check the pH of the solutions in a few samples using a pH strip (drop 5uL of solution onto the strip). The pH should be ~8, if not adjust it.
 * Incubate at 37C for 20mins. Then, check that the gels are completely covered (but avoid having excess liquid, you want the gels to be just about hydrated and covered). Add minimal amount of Ambic 25 to ensure rehydrated gels are covered with liquid if needed.
 * If new trypsin was reconstituted, freeze any extra trypsin at -80C in small aliquots to be used later and LABEL VERY WELL.
-* Vortex, briefly spin down and incubate 37C 350RPM overnight. Spot check the pH of the solutions in a few samples using a pH strip (drop 5uL of solution onto the strip). The pH should be ~8, if not adjust it. START:
+* Vortex, briefly spin down and incubate 37C 350RPM overnight. Spot check the pH of the solutions in a few samples using a pH strip (drop 5uL of solution onto the strip). The pH should be ~8, if not adjust it. 
+
+## Day 3
 * END of digestion period:
 * Spin down, collect liquid supernatant into clean 1.5mL tubes
-* Add 50uL peptide extraction buffer, incubate 20mins RT
+* Add 50uL peptide extraction buffer, vortex, incubate 20mins RT
 * Spin down and collect suspension, combine with liquid supernatant from above
 * Repeat extraction step, combining the suspensions
-* Spin the samples 20mins at high speed to remove any remaining debris
+* Spin the samples (supernatant) 20mins at high speed to remove any remaining debris
 * Collect the top 90% off the centrifuged samples and concentrate on speed vac on low (as needed). Note the volumes and calculate the final estimated concentration of protein. Typically we seek 1ug/uL mixtures that are later diluted to 0.1ug/uL in Buffer B and acidified to pH 4 for LC-MS/MS analysis. 
+    * If speedvac unavailable, store in -80 after collecting 90%
+
 
 | Sample | ug protein digested | Volume of sample after concentrating | Final concentration |
 |--------|---------------------|------------------------------------- |---------------------|
@@ -100,5 +107,12 @@ Make everything in LCMS grade H2O, use only LCMS grade solvents<br>
 |        |                     |                                      |                     |
 |        |                     |                                      |                     |
 |        |                     |                                      |                     |
+
+
+### Waste 
+## Chemicals 
+
+## Others 
+
 
 
