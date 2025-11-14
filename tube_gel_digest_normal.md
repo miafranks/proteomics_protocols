@@ -3,7 +3,6 @@
 
 ### Materials
 * Use protein low bind plastics OR you can use ethanol washed 0.5mL and 2mL tubes, one each per sample. To wash - rinse 1x in clean ethanol, allow to air dry in a dust free environment such as a fume hood. This reduces contamination by plasticizers. <br>
-    * 
 * At least 25ug sample protein (can be less, but more difficult)<br>
 * Shaker <br>
 * Centrifuge <br>
@@ -30,7 +29,7 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 * Formic Acid - Acid cabinet<br>
 
 ## Solutions 
-* Premix - stored ---- <br>
+* Premix<br>
 * Ambic 25 (25mM ammonium bicarbonate) - shared 4C stable <br>
 * Gel fix solution - shared shelf stable<br>
 * Gel destain solution  - shared shelf stable<br>
@@ -120,10 +119,10 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
    1. In chemical hood, remove liquid from gels
    2. Clean an acrylic square and two scalpels/razor blades with 70% ethanol
    3. Decant gels onto square and cut into 1mm cubes
-   4. Place gel pieces back in tube
+   4. Place gel pieces back in tube <br>
  <u> Note that here we have been experimenting with gel crushers in the centrifuge for higher throughput.</u> 
-10. Add 1mL 50:50 wash, shake 350RPM for 1hr. 
-<u> Note: This is a good place to break, gels can remain in incubator over night in the 50/50 wash if needed </u>
+10. Add 1mL 50:50 wash, shake 350RPM for 1hr. <br>
+<u> Note: This is a good place to break, gels can remain in incubator over night in the 50/50 wash if needed </u> <br>
 <u> Note: This may be an opportunity to transfer gels to a well-plate format (e.g. 96 deep well plates) allowing use of a multichannel pipette for the remaining steps. </u>
 
 ## Day 2
