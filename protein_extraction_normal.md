@@ -7,8 +7,8 @@
   * Sample # _______ * 4 = ______
 * Forceps
 * Pipette Tips
-  * 1000ul - 4* Sample # + 10.
-  * 200ul - 2* Sample # + 10. 
+  * 1000ul - 4 * Sample # + 10.
+  * 200ul - 2 * Sample # + 10. 
 * Shaker
 * Centrifuge - large and small
    
