@@ -73,8 +73,8 @@ maybe cut
   * Filters - trash 
   * Pellets - trash
   * Leftover supernatant from step 13
-        * Dump supernatant into organic waste product 
-        * Let tubes blow off in hood, then trash 
+    * Dump supernatant into organic waste product 
+    * Let tubes blow off in hood, then trash 
 * Vivaspins in trash 
 * Pipette Tips
   * Non hazardous chemicals - Trash
