@@ -14,9 +14,9 @@
    
 ### Chemicals
 * SDS extraction buffer (1% SDS, 0.1M Tris HCL, pH 7.5, 10mM EDTA)
-   * Stored in non-hazardous secondary containment in ACB chemical shelf 
-   * SDS powder - corrosives cabinet 
-   * EDTA powder - RT on chemical shelf
+  * Stored in non-hazardous secondary containment in ACB chemical shelf 
+  * SDS powder - corrosives cabinet 
+  * EDTA powder - RT on chemical shelf
 * Acetone Solvent 50% methanol, 50% acetone, 0.5mM HCL precipitaton solution (ice cold)
   * Stored in bottom shelf of chemicals when not in use
 
