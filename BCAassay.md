@@ -4,6 +4,7 @@
 ### Materials
 * 5uL of each sample to be tested
 * 2ug/uL bovine serum albumin solution (BSA)
+  * In fridge
 * Sample buffer (whatever your sample is dissolved in currently, often SDS)
 * Kit Solutions A, B
 * 15ml Falcon tube 
@@ -25,7 +26,7 @@
     1. Mix by pipetting, switch tip
     2. Repeat down the column until you are finished with all but the last well (H1) (see figure below)
 5. Prepare kit solution by mixing 50 parts A to 1 part B. You will need ~100 µL per sample to be tested
-    1. A: 100ul * [(41*2)+8] = A ul 
+    1. A: 100ul * [(41*2)+8] = ___________ A ul 
     2. B: A/50 = B ul 
     3. Protect solution from light 
 6. Pipette 5 µL of your standards into neighboring wells, column 2
