@@ -9,9 +9,9 @@
 * Centrifuge <br>
 * Nanodrop <br>
 * Pipette Tips 
-    * 1000 - 
-    * 200 - 
-    * 20 - 
+  * 1000 - 
+  * 200 - 
+  * 20 - 
 * Serological pippette - 25ml, 100ml tips 
 * New bottles for solutions need to be rinsed with LCMS grade H2O
 
@@ -21,13 +21,13 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 * LCMS grade acetonitrile - chemical hood, shared shelf stable<br>
 * LCMS grade methanol - bottom shelf of chemical hood
 * TEMED (full concentration) - in corrosive cabinet <br>
-* Ammonium persulfate - LOCAITON <br>
-* 1M Tris HCL, pH 7.5 - LOCATION <br> 
-* 40% Bis-acrylmide L 29:1 (labeled acrylamide)- LOCATION<br>
-* TE buffer (10mM tris HCL, 1mM EDTA in water) - LOCATION<br>
+* Ammonium persulfate - chemical shelf<br>
+* 1M Tris HCL, pH 7.5 - fridge <br> 
+* 40% Bis-acrylmide L 29:1 (labeled acrylamide)- in hazard container on chemical shelf<br>
+* TE buffer (bought but - 10mM tris HCL, 1mM EDTA in water) - fridge <br>
 * 10mM dithiothreitol (DTT) - stored in freezer <br>
 * Iodacetamide (IODA) - stored in freezer <br>
-* Formic Acid - LOCATION<br>
+* Formic Acid - Acid cabinet<br>
 
 ## Solutions 
 * Premix - stored ---- <br>
@@ -46,27 +46,27 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 1. Prepare premix on ice: 1 part Tris HCL, 3 parts 40% Bis-acryl L. 
    1. Total premix: 110ul * Sample # / 1000 = __________ mL premix (round up to nearest ml)
    2. Tric HCl: Total premix ml * 252 = _________________ uL Tris HCl
-   3. Bis-acryl L: Total premix ml * 736.5 = __________________ uL Bis-acryl L. 
+   3. Add in HOOD: Bis-acryl L: Total premix ml * 736.5 = __________________ uL Bis-acryl L. 
 2. Prepare Ambic 25: We usually make this by diluting an Ambic 100mM solution as needed.
    1. From 100mM Ambic: Combine 1:4, 100mM ambic: MQ water
 3. Prepare Gel Fix solution: 
    1. 50% Ethanol, 10% acetic acid in LC water
 4. Prepare Gel Destain solution: 
-   1. 50% methanol, 10% acetic acid in LC water
+   1. 50% Methanol, 10% acetic acid in LC water
 5. Prepare 50/50 wash: 
    1. 50% ACN, 50% Ambic25
 6. Prepare 1% Ammonium persulfate (APS): 
-   1. In a 1.5mL tube, mix 10mg Ammonium persulfate in 1mL H20. 
+   1. In a 1.5mL tube, mix 10mg Ammonium persulfate in 1mL MQ H20. 
 7. FOLLOWING BSA ASSAY: Decide amount of protein to digest 
    1. Ideal goal is 25-50ug and up to 100ug digestions
 8. Calculate amount of sample for each digestion (Vol to digest). 
    1. In excel: 25ug / Sample ug/ul(from BSA Assay) = _______ul of sample 
 9. Fill out the following table: 
-    1. Gels total 200ul
-    2. If the calulcated sample amount is... 
-        1. 0-87ul: Put value in 'Vol to Digest' column. Fill in TE buffer with vol to total 87. (Ex 40ul sample + 47ul TE)
-        2. 87-150ul: Put 87 in 'Vol to digest' column and 0 in TE buffer
-        3. 150+ul: Make double gels: 400ul total: 206 premix, 0 TE, ENTIRE SAMPLE, 14ul APS, 6ul TEMED. 
+   1. Gels total 200ul
+   2. If the calulcated sample amount is... 
+      1. 0-87ul: Put value in 'Vol to Digest' column. Fill in TE buffer with vol to total 87. (Ex 40ul sample + 47ul TE)
+      2. 87-150ul: Put 87 in 'Vol to digest' column and 0 in TE buffer
+      3. 150+ul: Make double gels: 400ul total: 206 premix, 0 TE, ENTIRE SAMPLE, 14ul APS, 6ul TEMED. 
 
 | Sample  | Sample  conc | Vol to Digest | Premix | TE   | APS | TEMED | Final Vol |
 |-------- |--------------|---------------|--------|------|-----|-------|-----------|
@@ -91,24 +91,38 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
     1. 50% LCMS Acetonitrile, 5% formic acid in water (LCMS grade)
     2. For 200ml total: 100ml ACN + 90ml LCMS water + 10ml Formic Acid
 
-
 ### Protocol
 ## Day 1
-13.  Label a set of 0.5ml tubes. 
-14.  Following the table above: 
-    1. Add 103uL Premix to each tube
-    2. Add sample and TE buffer to total 87ul 
-    3. Add 3ul TEMED 
-    4. Vortex
-15. To finish the gel, quickly add 7ul APS to one tube and vortex. Repeat for all samples. 
-    1. Work quickly. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
-* Allow to polymerize in thermomixer 1hr at 20C with no shaking START:
-* Add 200uL gel fix solution to gels, incubate RT 20min
-* Remove liquid, transfer gels to 2mL tubes (use a 200mL pipette tip to unstick the gels from the tubes)
-* fix in 1200-1600uL gel fix solution (enough to cover) at RT 350RPM for 30 min. START:
-* Remove liquid, add 1600uL destain solution and incubate 30 min RT 350RPM. This is not necessary if your gel was not stained (in this protocol, there is no stain so you can skip this step) START:
-* Remove liquid, decant gels onto a clean surface and cut into 1mm cubes with a clean scalpel or razor blade, return to tube. <u> Note that here we have been experimenting with gel crushers in the centrifuge for higher throughput.</u> 
-* Add 1mL 50:50 wash, shake 350RPM for 1hr. 
+1. Label a set of 0.5ml tubes. 
+2. Following the table above: 
+   1. Add 103uL Premix to each tube
+   2. Add sample and TE buffer to total 87ul 
+   3. Vortex
+   4. Add 3ul TEMED 
+   5. Vortex
+3. To finish the gel, quickly add 7ul APS to one tube and vortex. Repeat for all samples. 
+   1. Work quickly. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
+4. Allow to polymerize in thermomixer 20min at 20C with no shaking
+5. In the chemical hood, add 200uL gel fix solution to gels, incubate RT 20min
+   1. Label a new set of 2ml tubes 
+6. Transfer gels to new 2ml tubes
+   1. Pipette liquid to new tubes
+   2. Use 200ul pipette tip to unstick gels from tubes and transfer gels
+7. Fix gels 
+   1. In chemical hood, add additional 800ul gel fix solution (enough to cover) 
+   2. Shake at RT 350RPM for 30 min. 
+8. Destain gels
+   1. In chemical hood, remove gel fix liquid
+   2. Add 1000uL destain solution
+   3. Incubate 30 min RT 350RPM. 
+   4. This is not necessary if your gel was not stained (in this protocol, there is no stain so you can skip this step)
+9. Cut gels 
+   1. In chemical hood, remove liquid from gels
+   2. Clean an acrylic square and two scalpels/razor blades with 70% ethanol
+   3. Decant gels onto square and cut into 1mm cubes
+   4. Place gel pieces back in tube
+ <u> Note that here we have been experimenting with gel crushers in the centrifuge for higher throughput.</u> 
+10. Add 1mL 50:50 wash, shake 350RPM for 1hr. 
 <u> Note: This is a good place to break, gels can remain in incubator over night in the 50/50 wash if needed </u>
 <u> Note: This may be an opportunity to transfer gels to a well-plate format (e.g. 96 deep well plates) allowing use of a multichannel pipette for the remaining steps. </u>
 
@@ -162,7 +176,7 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 
 ### Waste 
 ## Chemicals 
-
+* Premix needs its own liquid waste 
 ## Others 
 
 
