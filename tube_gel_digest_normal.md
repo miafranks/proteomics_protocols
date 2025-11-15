@@ -13,7 +13,7 @@
   * 1000 - 14 * Sample # + 20
   * 200 - 6 * Sample # + 10
   * 20 - 4 * Sample # + 10
-* Serological pippette - 25ml, 100ml tips 
+* Serological pippette - 25ml, 100ml tips
 * New bottles for solutions need to be rinsed with LCMS grade H2O
 
 ### Chemicals
@@ -30,6 +30,7 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 * Iodacetamide (IODA) - stored in freezer <br>
 * Formic Acid - Acid cabinet<br>
 * Promega trypsin gold - -80 freezer <br>
+* Buffer B (Consult with Khiry)<br> 
 
 ## Solutions 
 * Premix<br>
@@ -105,7 +106,8 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
    5. Vortex
 3. To finish the gel, quickly add 7ul APS to one tube and vortex. Repeat for all samples. 
    1. Work quickly. Volumes and concentrations are critical at this stage. Be sure the APS and TEMED both make their way into solution. If the gels do not cure, usually it means either the APS or TEMED concentrations are incorrect or the solution was not properly mixed. If the sample is precious, you can add a small amount of TEMED and APS, vortex, and see if the gels will cure. However, this will result in different crosslinking across samples which may affect digestion efficiency, so avoid this if possible (e.g. start over if there is enough sample).
-4. Allow to polymerize in thermomixer 20min at 20C with no shaking
+4. Allow to polymerize on bench 20min at RT with no shaking
+   1. If not polymerized, add more TEMED and APS (same amounts)
 5. In the chemical hood, add 200uL gel fix solution to gels, incubate RT 20min
    1. Label a new set of 1.5ml tubes 
 6. Transfer gels to new 1.5ml tubes
@@ -113,10 +115,10 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
    2. Use 200ul pipette tip to unstick gels from tubes and transfer gels
 7. Fix gels 
    1. In chemical hood, add additional 800ul gel fix solution (enough to cover) 
-   2. Shake at RT 350RPM for 30 min. 
+   2. Shake at RT 350RPM for 45 min. 
 8. Destain gels
    1. In chemical hood, remove gel fix liquid
-   2. Add 1000uL destain solution
+   2. Add 800uL destain solution
    3. Incubate 30 min RT 350RPM. 
    4. Remove destain 
    5. This is not necessary if your gel was not stained (in this protocol, there is no stain so you can skip this step)
@@ -159,7 +161,7 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
     3. Incubate RT 5-10min
     4. Remove supernatant
     5. Repeat 2x until gels pieces are hard, crunchy, and white. 
-19. Make 0.1ug/ul Trypsin 
+19. Make 0.1ug/ul Trypsin during last 30 minutes of IODA incubation
     1. After removing from the -80 freezer, resuspend 100ug Promega trypsin gold by directly adding 1000ul Ambic 25, on ice 
     2. Let sit at least 30 mins to dissolve fully with very gentle vortexing
     3. IF TRYPSIN stocks are available in freezer: thaw desired amount on ice (calculate desired amount first below)
@@ -167,23 +169,12 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 20. Calculate desired concentration of trypsin based on amount of protein 
     1. Trypsin:protein ratio in digestion is 1:20
     2. Ex if samples are ~25ug/ul, ug trypsin is 1.25ug, and 12.5ul of 0.1ug/ul trypsin is added 
-
-| Sample | ug protein | ug trypsin 1:20 | volume pellet | ug trypsin/ vol pellet |   | vol  trypsin | vol ambic |
-|--------|------------|-----------------|---------------|------------------------|---|--------------|-----------|
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-|        |            |                 |               |                        |   |              |           |
-
 21. Digest 
     1. Add volume of trypsin for the desired 1ug trypsin enzyme per 20ug of experimental protein ratio
     2. Add minimal amount of Ambic 25 to ensure rehydrated gels are covered in liquid
 22. Spot check the pH of the solutions in a few samples using a pH strip 
     1. Drop 5uL of solution onto the strip
-    2. The pH should be ~8, if not adjust it
+    2. The pH should be ~8, if not adjust it (Add drop of 10% HCl or NaOH solution and recheck)
 23. Incubate at 37C for 20mins 
 24. Check that the gels are completely covered (but avoid having excess liquid, you want the gels to be just about hydrated and covered)
     1. If needed, add minimal amount of Ambic 25 to ensure rehydrated gels are covered with liquid
@@ -206,34 +197,34 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 32. Collect the top 90% off the centrifuged samples
     1. If speed vac is unavailable, stop here and put samples in -80 freezer
 33. Concentrate on speed vac on low (as needed). 
-    1. Note the volumes and calculate the final estimated concentration of protein. 
-    2. Measure protein concentration on nanodrop 
-    3. Typically we seek 1ug/uL mixtures that are later diluted to 0.1ug/uL in Buffer B and acidified to pH 4 for LC-MS/MS analysis. 
+    1. Note the volumes by measuring with a pipette
+    2. Calculate the final estimated concentration of protein
+    3. Measure protein concentration on nanodrop 
+    4. Typically we seek 1ug/uL mixtures that are later diluted to 0.1ug/uL in desired buffer (Buffer B or 0.1% formic acid) and acidified to pH 4 for LC-MS/MS analysis. 
+34. Fill out following table to make 0.1mg/ml 50ul aliquots: 
 
-| Sample | ug protein digested | Volume of sample after concentrating | Final concentration |
-|--------|---------------------|------------------------------------- |---------------------|
-|        |                     |                                      |                     |
-|        |                     |                                      |                     |
-|        |                     |                                      |                     |
-|        |                     |                                      |                     |
-|        |                     |                                      |                     |
-|        |                     |                                      |                     |
-
+| Sample | Volume | Protein mg/ml | Total Protein | Vol protein for 0.1mg/ml | Vol Buffer | Total Vol | Final Nanodrop Protein mg/ml |
+|--------|------------------------|---------------|--------------------------|------------|-----------|------------------------------|
+|        |                        |               |                          |            |           |                              |
+|        |                        |               |                          |            |           |                              |
+|        |                        |               |                          |            |           |                              |
 
 ### Waste 
 ## Chemicals 
-* Premix needs its own liquid waste 
-* Gel fix 
-* Gel destain
-* 50/50 Wash 
-* ACN
-* DTT solution
-* IODA solution
-* Ambic 25
+* Large digestion solvent waste 
+  * Premix needs its own liquid waste 
+  * Gel fix 
+  * Gel destain
+  * 50/50 Wash 
+  * ACN
+  * DTT solution
+  * IODA solution
+* Ambic 25 alone
+  * Sink 
 ## Others 
-* Tubes
-* Pipette tips 
-* Gels 
-* Debris pellets 
+* Tubes - blow off in hood, then trash
+* Pipette tips - blow off in hood, then trash 
+* Gels - trash
+* Debris pellets - trash, unless BSL2 organism 
 
 
