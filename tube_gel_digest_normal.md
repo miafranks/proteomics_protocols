@@ -204,10 +204,10 @@ Make everything in LCMS (Liquid Chromatography Mass Spectroscopy) grade H2O, use
 34. Fill out following table to make 0.1mg/ml 50ul aliquots: 
 
 | Sample | Volume | Protein mg/ml | Total Protein | Vol protein for 0.1mg/ml | Vol Buffer | Total Vol | Final Nanodrop Protein mg/ml |
-|--------|------------------------|---------------|--------------------------|------------|-----------|------------------------------|
-|        |                        |               |                          |            |           |                              |
-|        |                        |               |                          |            |           |                              |
-|        |                        |               |                          |            |           |                              |
+|--------|--------|---------------|---------------|--------------------------|------------|-----------|------------------------------|
+|        |        |               |               |                          |            |           |                              |
+|        |        |               |               |                          |            |           |                              |
+|        |        |               |               |                          |            |           |                              |
 
 ### Waste 
 ## Chemicals 
